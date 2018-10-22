@@ -4,7 +4,7 @@ import numpy as np
 import sys
 
 ## input: [3,1,[[0,7,4],[7,0,2],[4,2,0]] output: 6
-## number of servers and target server
+## number of servers and target server lol
 
 
 
